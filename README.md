@@ -5,7 +5,7 @@
 
 [Threat intelligence](https://en.wikipedia.org/wiki/Cyber_threat_intelligence) is data that is collected, processed, and analyzed to understand a threat actor’s motives, targets, and attack behaviors. Threat intelligence enables us to make faster, more informed, data-backed security decisions and change their behavior from reactive to proactive in the fight against threat actors.
 
-#### Threat intelligence is important for the following reasons:
+### Threat intelligence is important for the following reasons:
 
 - **sheds light on the unknown,** enabling security teams to make better decisions
 - empowers cyber security stakeholders by **revealing adversarial motives** and **their tactics, techniques, and procedures** (TTPs)
