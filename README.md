@@ -5,7 +5,7 @@
 
 [Threat intelligence](https://en.wikipedia.org/wiki/Cyber_threat_intelligence) is data that is collected, processed, and analyzed to understand a threat actor’s motives, targets, and attack behaviors. Threat intelligence enables us to make faster, more informed, data-backed security decisions and change their behavior from reactive to proactive in the fight against threat actors.
 
-According to [Gartner](https://www.gartner.com/reviews/market/security-threat-intelligence-services), *Threat intelligence is evidence-based knowledge (e.g., context, mechanisms, indicators, implications and action-oriented advice) about existing or emerging menaces or hazards to assets.
+> According to [Gartner](https://www.gartner.com/reviews/market/security-threat-intelligence-services), *Threat intelligence is evidence-based knowledge (e.g., context, mechanisms, indicators, implications and action-oriented advice) about existing or emerging menaces or hazards to assets.*
 
 <table>
     <tr>
