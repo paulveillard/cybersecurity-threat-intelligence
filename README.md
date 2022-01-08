@@ -1911,6 +1911,30 @@ When it comes to real-time cyber attack maps, some are funny, some seem ominous,
              Here's what sets this one apart: It is less dramatic with its attack graphics than some of the others, and it also shows the top attacked verticals for the past 30 days.
         </td>
     </tr>
+	     <tr>
+        <td>
+            <a href="https://threatmap.bitdefender.com/" target="_blank">Bitdefender live cyber threat map</a>
+        </td>
+        <td>
+              Bitdefender's real-time cyber threat map, which claims to show infections and attacks. Plus, its rapid-fire list of attacks drives home the point for non-technical folks. 
+        </td>
+    </tr>
+	  <tr>
+        <td>
+            <a href="https://securitycenter.sonicwall.com/m/page/worldwide-attacks" target="_blank">SonicWall live cyber attacks map</a>
+        </td>
+        <td>
+           Another really good looking live cyber attack map is from SonicWall, which was pointed out by a SecureWorld reader. We really like the easy to scan analytics at the bottom of the map which shows which countries are top attack targets right now and the average number of cyber attacks per site for the day, among other things. 
+        </td>
+    </tr>
+     <tr>
+        <td>
+            <a href="https://threatbutt.com/map/" target="_blank">Threatbutt</a>
+        </td>
+        <td>
+             The last one is what you might call an InfoSec classic. Not only does this cyber threat map include the "pew-pew" sound of video games from the '80s, but it flat out says its data comes from the cloud, including the cumulus cloud! And it translates the attacks it is supposedly tracking into phrases like "it's cyber Pompeii" or "we'll just call it a glitch."
+        </td>
+    </tr>
 </table>
 
 **[`^        back to top        ^`](#)**
