@@ -12,6 +12,8 @@
 - helps security professionals **better understand the threat actor’s decision-making process**
 - **empowers business stakeholders,** such as executive boards, CISOs, CIOs and CTOs; to invest wisely, mitigate risk, become more efficient and make faster decisions
 
+**[`^        back to top        ^`](#)**
+
 > According to [Gartner](https://www.gartner.com/reviews/market/security-threat-intelligence-services), *Threat intelligence is evidence-based knowledge (e.g., context, mechanisms, indicators, implications and action-oriented advice) about existing or emerging menaces or hazards to assets.*
 
 <table>
