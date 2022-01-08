@@ -1887,7 +1887,7 @@ When it comes to real-time cyber attack maps, some are funny, some seem ominous,
             Extensive collection of (historic) campaigns. Entries come from various sources.
         </td>
     </tr>
-
+</table>
 
 
 
