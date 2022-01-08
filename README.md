@@ -1874,17 +1874,17 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
 </table>
 
-## <a name="cyber Maps"></a>Live, Interactive & CyberThreat Maps
+## <a name="cyber Maps"></a> Live Cyber Attack Maps
 
 When it comes to real-time cyber attack maps, some are funny, some seem ominous, and all of them tell a story that words alone cannot: cyber attacks never stop.
 
 <table>
     <tr>
         <td>
-            <a href="https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections" target="_blank">APT & Cyber Criminal Campaign Collection</a>
+            <a href="https://cybermap.kaspersky.com/" target="_blank">CYBERTHREAT REAL-TIME MAP</a>
         </td>
         <td>
-            Extensive collection of (historic) campaigns. Entries come from various sources.
+            Our favorite real-time worldwide cyber attack map is from Kaspersky Lab. It looks incredibly sleek. In fact, it can easily be a conversation starter at your next party because it also works great on phones. Click "statistics" to easily find lots of details on where the data is coming from and scan the attack rankings for the day.
         </td>
     </tr>
 </table>
