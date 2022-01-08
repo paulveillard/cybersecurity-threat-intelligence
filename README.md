@@ -1075,7 +1075,7 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
 </table>
 
-
+**[`^        back to top        ^`](#)**
 
 ## Tools
 
@@ -1646,6 +1646,7 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
 </table>
 
+**[`^        back to top        ^`](#)**
 
 
 ## <a name="research"></a>Research, Standards & Books
