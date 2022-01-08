@@ -1887,71 +1887,7 @@ When it comes to real-time cyber attack maps, some are funny, some seem ominous,
             Extensive collection of (historic) campaigns. Entries come from various sources.
         </td>
     </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/kbandla/APTnotes" target="_blank">APTnotes</a>
-        </td>
-        <td>
-            A great collection of sources regarding <i>Advanced Persistent Threats</i> (APTs). These reports usually include strategic and tactical knowledge or advice.
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://attack.mitre.org/wiki/Main_Page" target="_blank">ATT&CK</a>
-        </td>
-        <td>
-            Adversarial Tactics, Techniques, and Common Knowledge (ATT&CK™) is a model and framework for describing the actions an adversary may take while operating within an enterprise network. ATT&CK is a constantly growing common reference for post-access techniques that brings greater awareness of what actions may be seen during a network intrusion. MITRE is actively working on integrating with related construct, such as CAPEC, STIX and MAEC.
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="http://www.activeresponse.org/building-threat-hunting-strategy-with-the-diamond-model/" target="_blank">Building Threat Hunting Strategies with the Diamond Model</a>
-        </td>
-        <td>
-            Blogpost by Sergio Caltagirone on how to develop intelligent threat hunting strategies by using the Diamond Model.
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://car.mitre.org/wiki/Main_Page" target="_blank">Cyber Analytics Repository by MITRE</a>
-        </td>
-        <td>
-            The Cyber Analytics Repository (CAR) is a knowledge base of analytics developed by MITRE based on the Adversary Tactics, Techniques, and Common Knowledge (ATT&CK™) threat model.
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/mitre/cti" target="_blank">Cyber Threat Intelligence Repository by MITRE</a>
-        </td>
-        <td>
-            The Cyber Threat Intelligence Repository of ATT&CK and CAPEC catalogs expressed in STIX 2.0 JSON.
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.tandfonline.com/doi/full/10.1080/08850607.2020.1780062" target="_blank">Cyber Threat Intelligence: A Product Without a Process?</a>
-        </td>
-        <td>
-            A research paper describing how current cyber threat intelligence products fall short and how they can be improved by introducing and evaluating sound methodologies and processes.
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://cryptome.org/2015/09/cti-guide.pdf" target="_blank">Definitive Guide to Cyber Threat Intelligence</a>
-        </td>
-        <td>
-            Describes the elements of cyber threat intelligence and discusses how it is collected, analyzed, and used by a variety of human and technology consumers. Further examines how intelligence can improve cybersecurity at tactical, operational, and strategic levels, and how it can help you stop attacks sooner, improve your defenses, and talk more productively about cybersecurity issues with executive management in typical <i>for Dummies</i> style.
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://ryanstillions.blogspot.nl/2014/04/the-dml-model_21.html" target="_blank">The Detection Maturity Level (DML)</a>
-        </td>
-        <td>
-            The DML model is a capability maturity model for referencing ones maturity in detecting cyber attacks.
-            It's designed for organizations who perform intel-driven detection and response and who put an emphasis on having a mature detection program.
-            The maturity of an organization is not measured by it's ability to merely obtain relevant intelligence, but rather it's capacity to apply that intelligence effectively to detection and response functions.
-        </td>
+
 
 
 
