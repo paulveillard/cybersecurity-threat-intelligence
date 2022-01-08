@@ -1881,7 +1881,7 @@ When it comes to real-time cyber attack maps, some are funny, some seem ominous,
 <table>
     <tr>
         <td>
-            <a href="https://cybermap.kaspersky.com/" target="_blank">CYBERTHREAT REAL-TIME MAP</a>
+            <a href="https://cybermap.kaspersky.com/" target="_blank">Kaspersky interactive Cyberthreats Real-Time Map</a>
         </td>
         <td>
             Our favorite real-time worldwide cyber attack map is from Kaspersky Lab. It looks incredibly sleek. In fact, it can easily be a conversation starter at your next party because it also works great on phones. Click "statistics" to easily find lots of details on where the data is coming from and scan the attack rankings for the day.
