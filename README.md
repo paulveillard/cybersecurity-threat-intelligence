@@ -3,6 +3,8 @@
 > A collection of awesome software, libraries, documents, books, resources and cool stuff about threat intelligence in Cybersecurity.
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
+##  `What is Threat Intelligence? `
+
 [Threat intelligence](https://en.wikipedia.org/wiki/Cyber_threat_intelligence) is data that is collected, processed, and analyzed to understand a threat actor’s motives, targets, and attack behaviors. Threat intelligence enables us to make faster, more informed, data-backed security decisions and change their behavior from reactive to proactive in the fight against threat actors.
 
 ###  `Threat intelligence is important for the following reasons: `
