@@ -1,5 +1,5 @@
 # Cybersecurity Threat Intelligence
-###### The World of Threat Intelligence in Cybersecurity :
+###### Welcome to the threat intelligence community:
 > An ongoing & curated collection of awesome software best practices and remediation techniques, libraries and frameworks, E-books and videos, Technical guidelines and important resources about Threat Intelligence.
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
