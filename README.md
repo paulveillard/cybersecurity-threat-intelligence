@@ -468,6 +468,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
             OpenPhish receives URLs from multiple streams and analyzes them using its proprietary phishing detection algorithms. There are free and commercial offerings available.
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://www.orcarouter.ai/incident-archive" target="_blank">Orca AI Incident Archive</a>
+        </td>
+        <td>
+            A searchable database of AI agent security events since December 2024 (incidents, vulnerabilities, research, threat reports and policy), filterable by type, severity and confirmed harm. Each record is source-linked and graded for source quality. The open data is on <a href="https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive" target="_blank">GitHub</a>.
+        </td>
+    </tr>
         <tr>
         <td>
             <a href="https://feed.seguranca-informatica.pt/index.php" target="_blank">0xSI_f33d</a>
