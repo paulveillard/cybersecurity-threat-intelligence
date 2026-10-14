@@ -814,6 +814,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://ichi.global" target="_blank">ICHI – Internet Cyber Health Index</a>
+        </td>
+        <td>
+            ICHI is a free, publicly accessible, source-transparent cybersecurity resource that aggregates daily signals from dozens of open-source threat intelligence feeds, CVE data, and security news into a single Internet cyber-health barometer. It provides an outside-in directional view of internet threat conditions, with direct links to source evidence. Not an organizational risk score or deterministic forecast.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.enisa.europa.eu/topics/csirt-cert-services/community-projects/incident-handling-automation" target="_blank">IntelMQ</a>
         </td>
         <td>
