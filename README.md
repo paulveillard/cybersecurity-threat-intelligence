@@ -1938,6 +1938,14 @@ When it comes to real-time cyber attack maps, some are funny, some seem ominous,
            Another really good looking live cyber attack map is from SonicWall, which was pointed out by a SecureWorld reader. We really like the easy to scan analytics at the bottom of the map which shows which countries are top attack targets right now and the average number of cyber attacks per site for the day, among other things. 
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://threatmap.whatoblock.com/" target="_blank">Whatoblock live threat map</a>
+        </td>
+        <td>
+            Free live map of attacks seen by Whatoblock's own network of 229 honeypot sensors in 40 countries. It shows scans and botnet activity as they arrive, with the attacking IPs, protocols and target countries.
+        </td>
+    </tr>
      <tr>
         <td>
             <a href="https://threatbutt.com/map/" target="_blank">Threatbutt</a>
